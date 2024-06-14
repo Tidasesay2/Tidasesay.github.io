@@ -26,33 +26,7 @@
     "SkillsText": "Throughout my academic and professional journey, I have cultivated a diverse set of skills that equip me to excel in the field of computer science. My proficiency in C++ programming is complemented by a strong foundation in other programming languages such as Python, Java, and JavaScript. This versatility allows me to approach problems from multiple angles and develop robust, efficient solutions.<br><br>In addition to my programming capabilities, I possess a solid understanding of software development methodologies, including Agile and Scrum. These methodologies have shaped my approach to project management and teamwork, ensuring that I can contribute effectively in collaborative environments.<br><br>My experience with data structures and algorithms has further enhanced my problem-solving abilities, enabling me to tackle complex challenges with confidence. I am also skilled in web development, having worked on various projects involving HTML, CSS, and modern frameworks such as React and Angular.<br><br>Beyond technical skills, I pride myself on my strong communication and interpersonal skills. These have been crucial in my roles as a team member and leader, allowing me to articulate ideas clearly, listen actively, and collaborate effectively.<br><br>Currently, I am enhancing my skills through an internship with the 'How's Life?' mental health app, where I am applying my knowledge to real-world projects and gaining valuable hands-on experience. My commitment to continuous learning and growth drives me to stay updated with the latest technologies and best practices in the industry, ensuring that I am always prepared to meet new challenges head-on.",
     "Resume": "student-resume.pdf"
   },
-  "Project1": {
-    "Title": "Python Webcrawler",
-    "Desc": "The Python web crawler is a sophisticated tool designed to navigate and extract information from different websites, allowing for both breadth and depth in its search. The crawler is equipped with a filtering mechanism that enables it to focus on specific types of content or data, ensuring efficient and relevant data collection.",
-    "GitHubRepo": "https://github.com/csc3430-winter2024/web-crawler-term-and-graph-13.git",
-    "MainImage": "PJ1curr",
-    "DetailImages": ["P1Detail1.png", "P1Detail2.png", "P1Detail3.png"]
-  },
-  "Project2": {
-    "Title": "Interesting Project 2",
-    "Desc": "This is a description of Project Two.<br><br>It also has a GitHub repo and more details shown in screenshots.",
-    "GitHubRepo": "https://github.com",
-    "MainImage": "P2Main.png",
-    "DetailImages": ["P2Detail1.png", "P2Detail2.png", "P2Detail3.png", "P2Detail4.png"]
-  },
-  "Project3": {
-    "Title": "Interesting Project 3",
-    "Desc": "This is a description of Project Three.<br><br>It does not have a GitHub repo or any additional screenshots.",
-    "GitHubRepo": "",
-    "MainImage": "P3Main.png",
-    "DetailImages": []
-  },
-  "Project4": {
-    "Title": "",
-    "Desc": "",
-    "GitHubRepo": "",
-    "MainImage": "",
-    "DetailImages": []
+ 
   }
 }
 
