@@ -1,54 +1,39 @@
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+## 💻 Software Development Projects
 
-<h2>👨‍💻 Software Development Projects:</h2>
+### WinterArk — *Flutter, Figma, Adobe XD*  
+**Gym Accountability App** | *Sep 2024 – Present*  
+Designed a cross-platform fitness accountability app that allows users to track gym progress, log workouts, and stay consistent through visual goal-setting tools.
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- Built the mobile UI using Flutter and wireframes using Figma and Adobe XD.
+- Collaborated with backend developers to connect fitness logs and ensure smooth cross-platform functionality.
+- Prioritized accessibility and intuitive UX for a diverse user base.
 
-<h2>📺 Popular YouTube Videos</h2>
+---
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+### Web Crawler — *Python, BeautifulSoup, NetworkX*  
+**Website Structure Mapping Tool** | *Feb – Mar 2024*  
+Developed a crawler to map internal website structures and visualize navigation graphs for site optimization.
 
-<h2> 🤳 Connect with me:</h2>
+- Extracted metadata and HTML content using BeautifulSoup.
+- Applied Dijkstra’s algorithm with NetworkX to identify inefficient paths and unreachable pages.
+- Helpful for SEO audits and improving internal link architecture.
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+---
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+### Lexical & Syntax Analyzer — *Rust*  
+**Custom Compiler Project** | *Sep 2023 – Oct 2024*  
+Built a lexical and syntax analyzer to tokenize, parse, and validate grammar rules in code.
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Self-taught Rust to implement safe, efficient compiler logic.
+- Developed the full pipeline from rule validation to AST generation.
+- Focused on modular architecture and robust error handling.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Mobile Water Tracker App — *SQLite, JavaScript*  
+**Hydration Monitoring App** | *Apr – Jun 2023*  
+Created a lightweight mobile app to track daily water intake and promote consistent hydration habits.
+
+- Used JavaScript for the front end and SQLite for persistent storage.
+- Designed responsive UI wireframes focused on simplicity and clarity.
+- Implemented real-time reminders and data visualizations.
