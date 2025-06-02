@@ -11,7 +11,7 @@
   - Build mobile UI and wireframes using Figma and Adobe XD to help users track fitness progress.
   - Collaborate with backend developers to integrate fitness logs and ensure cross-platform functionality.
 
-- <b>Web Crawler — <i>Python, BeautifulSoup, NetworkX</i></b>
+- <b>[Web Crawler] (https://github.com/orgs/csc3430-winter2024/teams/term-and-graph-13/repositories<)— <i>Python, BeautifulSoup, NetworkX</i></b>
  - <i>https://github.com/orgs/csc3430-winter2024/teams/term-and-graph-13/repositories</i>
   - Create a crawler to map internal website structure and extract metadata; visualize navigation graphs.
   - Apply Dijkstra’s algorithm to identify inefficient routing paths and unreachable pages.
