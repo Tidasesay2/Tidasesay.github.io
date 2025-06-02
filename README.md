@@ -1,41 +1,44 @@
-## 💻 Software Development Projects
+<h1>Hi, I'm Tidankay Sesay! <br/>
+<a href="https://github.com/YOUR-GITHUB-HERE">Developer</a>, 
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HERE">Tech Educator</a>, 
+<a href="https://YOUR-PORTFOLIO-LINK-HERE">Community Advocate</a>
+</h1>
 
-### WinterArk — *Flutter, Figma, Adobe XD*  
-https://github.com/WinterArk/WinterArk
+<h2>👨‍💻 Software & Tech Projects:</h2>
 
-**Gym Accountability App** | *Sep 2024 – Present*  
-Designed a cross-platform fitness accountability app that allows users to track gym progress, log workouts, and stay consistent through visual goal-setting tools.
+- <b>WinterArk (Flutter, Firebase)</b>
+  - <a href="https://github.com/YOUR-GITHUB-HERE/WinterArk">Gym Accountability App</a><br/>
+  - Led front-end development using Flutter and Dart. Implemented screen navigation, user profile tracking, and fitness logging. Collaborated on UI/UX design and user flows.
 
-- Built the mobile UI using Flutter and wireframes using Figma and Adobe XD.
-- Collaborated with backend developers to connect fitness logs and ensure smooth cross-platform functionality.
-- Prioritized accessibility and intuitive UX for a diverse user base.
+- <b>Afriglobe (Flutter, MongoDB, AWS)</b>
+  - <a href="https://github.com/YOUR-GITHUB-HERE/Afriglobe">Cultural Travel & Community App</a><br/>
+  - Built to connect users across the African diaspora. Focused on highlighting cultural stories, destinations, and local experiences.
 
----
+- <b>How's Life? (Internship Project - Flutter)</b>
+  - <a href="https://github.com/YOUR-GITHUB-HERE/HowsLife">Mental Health Tech App</a><br/>
+  - Improved the user interface and implemented anonymous post features and support video integration. Represented the app at live events.
 
-### Web Crawler — *Python, BeautifulSoup, NetworkX*  
-**Website Structure Mapping Tool** | *Feb – Mar 2024*  
-Developed a crawler to map internal website structures and visualize navigation graphs for site optimization.
+- <b>Avela Teacher Projects</b>
+  - Created and taught Python, Virtual Reality, and Mixed Reality curriculum for K-12 students. Focused on accessibility and interactive tech education.
 
-- Extracted metadata and HTML content using BeautifulSoup.
-- Applied Dijkstra’s algorithm with NetworkX to identify inefficient paths and unreachable pages.
-- Helpful for SEO audits and improving internal link architecture.
+<h2>📺 Highlights & Media</h2>
 
----
+- Taught immersive tech workshops as an Avela instructor
+- Co-founded the NSBE chapter at my university, serving as Secretary
+- Gave live demos of Flutter projects at community tech events
+- Currently exploring Solutions Engineering, Developer Relations, and Technical Education roles
 
-### Lexical & Syntax Analyzer — *Rust*  
-**Custom Compiler Project** | *Sep 2023 – Oct 2024*  
-Built a lexical and syntax analyzer to tokenize, parse, and validate grammar rules in code.
+<h2> 🤳 Connect with me:</h2>
 
-- Self-taught Rust to implement safe, efficient compiler logic.
-- Developed the full pipeline from rule validation to AST generation.
-- Focused on modular architecture and robust error handling.
+[<img align="left" alt="Tidankay | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]  
+[<img align="left" alt="Tidankay | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]  
+[<img align="left" alt="Tidankay | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
+[<img align="left" alt="Tidankay | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
----
+<br/><br/>
 
-### Mobile Water Tracker App — *SQLite, JavaScript*  
-**Hydration Monitoring App** | *Apr – Jun 2023*  
-Created a lightweight mobile app to track daily water intake and promote consistent hydration habits.
+[twitter]: https://twitter.com/YOUR-TWITTER
+[youtube]: https://www.youtube.com/@YOUR-YOUTUBE
+[instagram]: https://www.instagram.com/YOUR-INSTA
+[linkedin]: https://linkedin.com/in/YOUR-LINKEDIN
 
-- Used JavaScript for the front end and SQLite for persistent storage.
-- Designed responsive UI wireframes focused on simplicity and clarity.
-- Implemented real-time reminders and data visualizations.
