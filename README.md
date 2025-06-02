@@ -1,21 +1,23 @@
 <h1>Hi, I'm Tidankay Sesay! <br/>
-<a href="YOUR_GITHUB_LINK">Programmer</a>, 
-<a href="YOUR_LINKEDIN_LINK">Tech Educator</a>, 
+<a href="https://tidasesay2.github.io/">Programmer</a>, 
+<a href="www.linkedin.com/in/tidankaysesay">Tech Educator</a>, 
 <a href="YOUR_PORTFOLIO_LINK">Community Advocate</a>
 </h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>WinterArk — <i>Flutter, Figma, Adobe XD</i></b>
-  - <i>Gym Accountability App</i>
+  - <i>https://github.com/WinterArk/WinterArk</i>
   - Build mobile UI and wireframes using Figma and Adobe XD to help users track fitness progress.
   - Collaborate with backend developers to integrate fitness logs and ensure cross-platform functionality.
 
 - <b>Web Crawler — <i>Python, BeautifulSoup, NetworkX</i></b>
+ - <i>https://github.com/orgs/csc3430-winter2024/teams/term-and-graph-13/repositories</i>
   - Create a crawler to map internal website structure and extract metadata; visualize navigation graphs.
   - Apply Dijkstra’s algorithm to identify inefficient routing paths and unreachable pages.
 
 - <b>Lexical & Syntax Analyzer — <i>Rust</i></b>
+ - <i>https://github.com/csc3310-fall2023/rust-parser-Tidasesay2</i>
   - Independently taught Rust to lead development of compiler tools for tokenizing and parsing code.
   - Complete project cycle from grammar rule validation to final testing and deployment.
 
