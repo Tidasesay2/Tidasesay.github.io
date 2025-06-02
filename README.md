@@ -1,32 +1,31 @@
 <h1>Hi, I'm Tidankay Sesay! <br/>
-<a href="https://github.com/YOUR-GITHUB-HERE">Developer</a>, 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HERE">Tech Educator</a>, 
-<a href="https://YOUR-PORTFOLIO-LINK-HERE">Community Advocate</a>
+<a href="YOUR_GITHUB_LINK">Programmer</a>, 
+<a href="YOUR_LINKEDIN_LINK">Tech Educator</a>, 
+<a href="YOUR_PORTFOLIO_LINK">Community Advocate</a>
 </h1>
 
-<h2>👨‍💻 Software & Tech Projects:</h2>
+<h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>WinterArk (Flutter, Firebase)</b>
-  - <a href="https://github.com/YOUR-GITHUB-HERE/WinterArk">Gym Accountability App</a><br/>
-  - Led front-end development using Flutter and Dart. Implemented screen navigation, user profile tracking, and fitness logging. Collaborated on UI/UX design and user flows.
+- <b>WinterArk — <i>Flutter, Figma, Adobe XD</i></b>
+  - <i>Gym Accountability App</i>
+  - Build mobile UI and wireframes using Figma and Adobe XD to help users track fitness progress.
+  - Collaborate with backend developers to integrate fitness logs and ensure cross-platform functionality.
 
-- <b>Afriglobe (Flutter, MongoDB, AWS)</b>
-  - <a href="https://github.com/YOUR-GITHUB-HERE/Afriglobe">Cultural Travel & Community App</a><br/>
-  - Built to connect users across the African diaspora. Focused on highlighting cultural stories, destinations, and local experiences.
+- <b>Web Crawler — <i>Python, BeautifulSoup, NetworkX</i></b>
+  - Create a crawler to map internal website structure and extract metadata; visualize navigation graphs.
+  - Apply Dijkstra’s algorithm to identify inefficient routing paths and unreachable pages.
 
-- <b>How's Life? (Internship Project - Flutter)</b>
-  - <a href="https://github.com/YOUR-GITHUB-HERE/HowsLife">Mental Health Tech App</a><br/>
-  - Improved the user interface and implemented anonymous post features and support video integration. Represented the app at live events.
+- <b>Lexical & Syntax Analyzer — <i>Rust</i></b>
+  - Independently taught Rust to lead development of compiler tools for tokenizing and parsing code.
+  - Complete project cycle from grammar rule validation to final testing and deployment.
 
-- <b>Avela Teacher Projects</b>
-  - Created and taught Python, Virtual Reality, and Mixed Reality curriculum for K-12 students. Focused on accessibility and interactive tech education.
+- <b>Mobile Water Tracker App — <i>SQLite, JavaScript</i></b>
+  - Develop a hydration tracking app with persistent storage and real-time progress monitoring.
+  - Build responsive UI wireframes and ensure smooth performance across devices.
 
-<h2>📺 Highlights & Media</h2>
+<h2>📺 Popular YouTube Videos</h2>
 
-- Taught immersive tech workshops as an Avela instructor
-- Co-founded the NSBE chapter at my university, serving as Secretary
-- Gave live demos of Flutter projects at community tech events
-- Currently exploring Solutions Engineering, Developer Relations, and Technical Education roles
+- [OPTIONAL – Add personal or project demo videos here]
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -37,8 +36,9 @@
 
 <br/><br/>
 
-[twitter]: https://twitter.com/YOUR-TWITTER
-[youtube]: https://www.youtube.com/@YOUR-YOUTUBE
-[instagram]: https://www.instagram.com/YOUR-INSTA
-[linkedin]: https://linkedin.com/in/YOUR-LINKEDIN
+[twitter]: https://twitter.com/YOUR_TWITTER  
+[youtube]: https://www.youtube.com/@YOUR_YOUTUBE  
+[instagram]: https://www.instagram.com/YOUR_INSTAGRAM  
+[linkedin]: https://www.linkedin.com/in/YOUR_LINKEDIN
+
 
