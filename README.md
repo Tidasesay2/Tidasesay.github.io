@@ -6,7 +6,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>WinterArk — <i>Flutter, Figma, Adobe XD</i></b>
+- <b>[WinterArk](https://github.com/WinterArk/WinterArk) — <i>Flutter, Figma, Adobe XD</i></b>
   - <i>https://github.com/WinterArk/WinterArk</i>
   - Build mobile UI and wireframes using Figma and Adobe XD to help users track fitness progress.
   - Collaborate with backend developers to integrate fitness logs and ensure cross-platform functionality.
