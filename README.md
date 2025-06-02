@@ -5,7 +5,7 @@
 </h1>
 
 <h2>Resume</h2>
-- [Click here to view my resume](./Tidankay_Sesay_Resume.pdf)
+- [Heres My Resume](./Tidankay_Sesay_Resume.pdf)
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
