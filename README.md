@@ -1,6 +1,7 @@
 ## 💻 Software Development Projects
 
-### WinterArk — *Flutter, Figma, Adobe XD*   
+### WinterArk — *Flutter, Figma, Adobe XD*  
+https://github.com/WinterArk/WinterArk
 **Gym Accountability App** | *Sep 2024 – Present*  
 Designed a cross-platform fitness accountability app that allows users to track gym progress, log workouts, and stay consistent through visual goal-setting tools.
 
