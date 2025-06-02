@@ -4,6 +4,9 @@
 <a href="YOUR_PORTFOLIO_LINK">Community Advocate</a>
 </h1>
 
+<h2>Resume</h2>
+- [Click here to view my resume](./Tidankay_Sesay_Resume.pdf)
+
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>[WinterArk](https://github.com/WinterArk/WinterArk) — <i>Flutter, Figma, Adobe XD</i></b>
