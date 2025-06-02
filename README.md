@@ -1,7 +1,4 @@
 <h1>Hi, I'm Tidankay Sesay! <br/>
-<a href="https://tidasesay2.github.io/">Programmer</a>, 
-<a href="www.linkedin.com/in/tidankaysesay">Tech Educator</a>, 
-<a href="YOUR_PORTFOLIO_LINK">Community Advocate</a>
 </h1>
 
 ## 📄 Resume  
