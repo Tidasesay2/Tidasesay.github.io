@@ -4,8 +4,8 @@
 <a href="YOUR_PORTFOLIO_LINK">Community Advocate</a>
 </h1>
 
-<h2>Resume</h2>
-- [Heres My Resume](./Tidankay_Sesay_Resume.pdf)
+## 📄 Resume  
+[View my resume](./Tidankay_Sesay_Resume.pdf)
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
